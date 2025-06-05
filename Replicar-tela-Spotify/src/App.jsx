@@ -24,13 +24,13 @@ function App() {
 
         <div className="flex items-center gap-2 justify-center border-b-2 border-zinc-600 p-2 w-[380px] mx-auto mt-1"></div>
 
-        <section className="flex flex-col items-center mt-4">
+        <section className="flex flex-col items-center mt-2">
           <div className="flex flex-col">
             <p className="font-bold">Email address or username</p>
-          <input className="w-[380px] mx-auto border border-zinc-600 " type="email" name="email" id="" placeholder="Email adress or username" />
+          <input className="w-[380px] mx-auto border border-zinc-600 p-1" type="email" name="email" id="" placeholder="Email adress or username" />
 
           <p className="font-bold mt-4">Password</p>
-          <input className="w-[380px] mx-auto border border-zinc-600" type="password" name="password" id=""  placeholder="Password"/>
+          <input className="w-[380px] mx-auto border border-zinc-600 p-1" type="password" name="password" id=""  placeholder="Password"/>
 
           <a className="text-sm mt-4 underline" href="#">Forgot your password?</a>
           </div>
@@ -38,13 +38,13 @@ function App() {
 
         <section className="flex flex-col items-center ">
            <div className="flex items-center space-x-32 mt-6">
-             <input className="mr-2 align-center cursor-pointer bg-green-600 border-green-600" type="checkbox" name="checkbox" id="" />
+             <input className="mr-2 align-center cursor-pointer text-red-300" type="checkbox" name="checkbox" id="" />
              <label htmlFor="checkbox">Remember me</label>
              <button className="flex items-center gap-2 justify-center border rounded-full 
            p-1 my-1 px-10 bg-[#15883E] border-green-600 text-white font-bold mt-4 cursor-pointer transform hover:scale-105 transition:bg duration-200">Log in</button>
            </div>
         </section>
-        <div className="flex items-center gap-2 justify-center border-b-2 border-zinc-600 p-2 w-[380px] mx-auto mt-4"></div>
+        <div className="flex items-center gap-2 justify-center border-b-2 border-zinc-600 p-2 w-[380px] mx-auto "></div>
 
         <section className="flex flex-col items-center mt-4">
           <p className="font-bold">Don't have an account?</p>
