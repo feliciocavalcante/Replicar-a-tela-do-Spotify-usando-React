@@ -1,12 +1,29 @@
-# React + Vite
+# 🎵 Tela de Login do Spotify Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma **replicação da tela de login do Spotify**, desenvolvida com **React** e **Tailwind CSS**. O objetivo principal é praticar a criação de interfaces modernas e responsivas, seguindo o design original da plataforma Spotify.
 
-Currently, two official plugins are available:
+## 🔗 Link do Deploy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Confira a aplicação ao vivo:  
+👉 [https://replicar-a-tela-do-spotify-usando-r.vercel.app/](https://replicar-a-tela-do-spotify-usando-r.vercel.app/)
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** — Biblioteca JavaScript para construção de interfaces
+- **Tailwind CSS** — Framework utilitário para estilização moderna e responsiva
+- **Vite** — Ferramenta de build rápida para projetos com React
+
+## 📸 Captura de Tela
+
+> ![spotify](https://github.com/user-attachments/assets/8e90bbbe-037d-406b-9c22-a467835afab5)
+*
+## 📱 Modo Mobile
+> ![spotify mobile](https://github.com/user-attachments/assets/106be116-eeed-4e40-a773-9f0b87373749)
+
+
+## 🚀 Como Executar Localmente
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repo.git
