@@ -51,7 +51,7 @@ function App() {
           <button className="flex items-center gap-2 justify-center border rounded-full 
            p-1 my-1 px-33 text-[12px] cursor-pointer transform hover:scale-102 transition:bg duration-100">SIGN UP FOR SPOTIFY</button>
         </section>
-      </div>
+       </div>
     </>
   )
 }
