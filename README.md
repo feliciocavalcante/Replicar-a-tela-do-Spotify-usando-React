@@ -16,7 +16,7 @@ Confira a aplicação ao vivo:
 ## 📸 Captura de Tela
 
 > ![spotify](https://github.com/user-attachments/assets/8e90bbbe-037d-406b-9c22-a467835afab5)
-*
+
 ## 📱 Modo Mobile
 > ![spotify mobile](https://github.com/user-attachments/assets/106be116-eeed-4e40-a773-9f0b87373749)
 
